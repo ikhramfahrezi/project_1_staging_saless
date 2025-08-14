@@ -32,4 +32,4 @@ Tools & Library
 Instalasi
 1. Clone repository ini:
 ```bash
-git clone https://github.com/username/project_1_import_sales.git#
+git clone https://github.com/ikhramfahrezi/project_1_staging_saless.git#
